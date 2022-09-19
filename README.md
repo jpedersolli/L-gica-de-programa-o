@@ -1,2 +1,2 @@
-# L-gica-de-programa-o
+# Lógica-de-programação
 Meus primeiros passos na lógica de programação.
